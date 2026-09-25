@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.2] - 2026-09-07
+
+### Added
+
+- 统一展示名为「视频号组件」，保持调用 ID 与能力契约。
+
 ## 0.1.1
 
 - Matched the native WeChat Channels card presentation with centered sizing, a visible play control, and an overlaid identity row.

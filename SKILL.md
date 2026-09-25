@@ -11,7 +11,7 @@ depends_on:
   - lov-branding-consistency
 metadata:
   author: LovStudio contributors
-  version: "0.1.1"
+  version: "0.1.2"
   card_standard: lovstudio/skill-card/v1
   content_class: deterministic-output
   tags:
@@ -22,7 +22,7 @@ metadata:
     - component
 ---
 
-# lov-lovpen-add-wechat-channel-comp
+# 视频号组件 · WeChat Channels Embed
 
 接收一个微信视频号 `mp-common-videosnap` DOM 或一条 Lovpen
 `::wechat-channels` DSL，输出规范化 Markdown DSL 或微信原生 HTML 组件。目标文件

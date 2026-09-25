@@ -1,4 +1,4 @@
-# Skill Card — lov-lovpen-add-wechat-channel-comp
+# 视频号组件 · WeChat Channels Embed · Skill Card
 
 ## Description
 
